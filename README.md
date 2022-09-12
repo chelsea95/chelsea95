@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @chelsea95
+- 🌱 I’m currently learning PHP, JavaScript, HTML, CSS, Photoshop, SQL
